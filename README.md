@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandalikadilini" target="blank"><img src="https://img.shields.io/twitter/follow/sandalikadilini?logo=twitter&style=for-the-badge" alt="sandalikadilini" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Vuejs 3**
+- 🌱 I’m currently learning **Angular, Vue js 3**
 
 - 💬 Ask me about **MERN Stack,Java**
 
