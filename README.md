@@ -17,7 +17,7 @@
 
 - 👀 I’m Passionate about Web Application Development
 
-- 🌱 I’m currently studying Angular TS.
+- 🌱 I’m currently studying Angular TS, React native, Flutter.
 
 - 💬 Ask me about **MERN Stack, Java, Vue, Spring boot**
 
