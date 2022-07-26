@@ -7,9 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sandalikadilini" target="blank"><img src="https://img.shields.io/twitter/follow/sandalikadilini?logo=twitter&style=for-the-badge" alt="sandalikadilini" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Vue js 3**
+### :bulb: About me:
 
-- 💬 Ask me about **MERN Stack,Java**
+- 👋 Hi, I’m **@Sandalika-Ariyrathna**
+
+- 🔭 I’m Undergraduate at **SLIIT | Srilankan Institute Of Information Technology**.
+
+- 👨‍💻 following **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
+
+- 👀 I’m Passionate about Web Application Development
+
+- 🌱 I’m currently studying Mobile Application Angular TS.
+
+- 💬 Ask me about **MERN Stack, Java, Vue, Spring boot**
 
 - 📫 How to reach me **dilsandu96@gmail.com**
 
