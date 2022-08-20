@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://github.com/SandalikaAriyrathna)
+[![MasterHead](http://www.webitexperts.com/images/banner1_1.gif)](https://github.com/SandalikaAriyrathna)
 
 <h1 align="center">Hi 👋, I'm Sandalika Ariyarathna</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
