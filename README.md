@@ -1,4 +1,4 @@
-[![MasterHead](http://www.webitexperts.com/images/banner1_1.gif)](https://github.com/SandalikaAriyrathna)
+[![MasterHead](https://mfempire.biz/wp-content/uploads/2021/09/mobile-app-development-lifecycle-softsuave.gif)](https://github.com/SandalikaAriyrathna)
 
 <h1 align="center">Hi 👋, I'm Sandalika Ariyarathna</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
