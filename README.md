@@ -51,17 +51,23 @@
 </p>
 
 <p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalikaariyrathna&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" />
+</p>
+
+
+<br/>
+<br/>
+
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" alt="sandalikaariyrathna" />
 </p>
 
 <br/>
 <br/>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalikaariyrathna&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" /></p>
+
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" /></p>
 
 <br/>
 <br/>
