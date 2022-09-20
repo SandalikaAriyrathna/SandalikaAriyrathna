@@ -1,5 +1,5 @@
 ![MasterHead](https://www.softsuave.com/blog/wp-content/uploads/2020/11/mobile-app-development-lifecycle-softsuave.gif)
-<h1 align="center">Hi 👋, I'm Sandalika Ariyarathna</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Sandalika Ariyarathna</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandalikaariyrathna&label=Profile%20views&color=0e75b6&style=flat" alt="sandalikaariyrathna" /> </p>
@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://twitter.com/sandalikadilini" target="blank"><img src="https://img.shields.io/twitter/follow/sandalikadilini?logo=twitter&style=for-the-badge" alt="sandalikadilini" /></a> </p>
 
 ### :bulb: About me:
-
-- 👋 Hi, I’m **@Sandalika-Ariyrathna**
 
 - 🔭 I’m Undergraduate at **SLIIT | Srilankan Institute Of Information Technology**.
 
@@ -33,7 +31,7 @@
 <br>
 <hr>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
