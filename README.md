@@ -20,7 +20,9 @@
 
 - 📫 How to reach me **dilsandu96@gmail.com**
 
-- badges ![@sandalikaariyrathna's Holopin board](https://holopin.me/sandalikaariyrathna)(https://holopin.io/@sandalikaariyrathna)
+<h3 align="left">Awards:</h3>
+
+ ![@sandalikaariyrathna's Holopin board](https://holopin.me/sandalikaariyrathna)
 
 
 <h3 align="left">Connect with me:</h3>
