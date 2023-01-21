@@ -22,7 +22,7 @@
 
 <h3 align="left">Awards:</h3>
 
- ![@sandalikaariyrathna's Holopin board](https://holopin.me/sandalikaariyrathna)
+<!--  ![@sandalikaariyrathna's Holopin board](https://holopin.me/sandalikaariyrathna) -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -74,7 +74,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sandalikaariyrathna/github-readme-activity-graph"><img alt="sandalikaariyrathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandalikaariyrathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/SandalikaAriyrathna/github-readme-activity-graph"><img alt="sandalikaariyrathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandalikaariyrathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+[![SandalikaAriyrathna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandalikaAriyrathna&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
