@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **MERN Stack - ReactJS/ExpressJS/NodeJS, Java, Vue, Spring boot**
 
-- 📫 How to reach me **dilsandu96@gmail.com**
+- 📫 How to reach me **sandalikaariyarathna@gmail.com**
 
 <h3 align="left">Awards:</h3>
 
