@@ -14,9 +14,9 @@
 
 - 👀 I’m Passionate about Web Application Development
 
-- 🌱 I’m currently studying NextJS, ReactTS, Angular TS, React native.
+- 🌱 I’m currently studying NextJS.
 
-- 💬 Ask me about **MERN Stack - ReactJS/ExpressJS/NodeJS, Java, Vue, Spring boot**
+- 💬 Ask me about **MERN Stack - ReactJS/ReactTS,ExpressJS,NodeJS, React Native, Angular TS, Java, Vue, Spring boot**
 
 - 📫 How to reach me **sandalikaariyarathna@gmail.com**
 
