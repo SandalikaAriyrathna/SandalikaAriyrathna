@@ -30,7 +30,7 @@
 <a href="https://twitter.com/sandalikadilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandalikadilini" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dilini-sandalika96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilinisandalika96" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009407160156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilini sandlika" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/dilinisandalika/](https://instagram.com/dilini_sandalika?igshid=ZDdkNTZiNTM=)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilini sandlika" height="30" width="40" /></a>
+<a href="https://instagram.com/dilini_sandalika?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilini sandlika" height="30" width="40" /></a>
 
 </p>
 <br>
