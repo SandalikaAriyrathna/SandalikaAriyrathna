@@ -77,7 +77,8 @@
 
 <!-- <a href="https://github.com/SandalikaAriyrathna/github-readme-activity-graph"><img alt="sandalikaariyrathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandalikaariyrathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-![SandalikaAriyrathna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandalikaAriyrathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+[![Sandalika_Ariyrathna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandalikaAriyrathna&theme=dracula)](https://github.com/SandalikaAriyrathna/github-readme-activity-graph)
+
 
 <br/>
 <br/>
