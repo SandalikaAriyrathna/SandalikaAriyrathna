@@ -66,11 +66,14 @@
 <br/>
 <br/>
 
-<p>
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalikaariyrathna&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" /></p>
+<br/>
+<br/>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="sandalikaariyrathna" /></p>
 
 <br/>
 <br/>
