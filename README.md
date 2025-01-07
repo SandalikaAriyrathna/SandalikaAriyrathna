@@ -8,7 +8,7 @@
 
 ### :bulb: About me:
 
-- 🔭 I’m Undergraduate at **SLIIT | Srilankan Institute Of Information Technology**.
+- 🔭 I’m graduated at **SLIIT | Srilankan Institute Of Information Technology**.
 
 - 👨‍💻 following **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
 
@@ -19,8 +19,6 @@
 - 💬 Ask me about **MERN Stack - React JS/TS, ExpressJS, NodeJS, Laravel, React Native, Angular TS, Java, Vue, Spring boot**
 
 - 📫 How to reach me **sandalikaariyarathna@gmail.com**
-
-- 👨‍💻 Portfolio - https://dilsandu96.wixsite.com/my-site
 
 <h3 align="left">Awards:</h3>
 
