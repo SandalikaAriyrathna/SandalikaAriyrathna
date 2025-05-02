@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently studying NextJS.
 
-- 💬 Ask me about **MERN Stack - React JS/TS, ExpressJS, NodeJS, Laravel, NextJS React Native, Angular TS, Java, Vue, Spring boot**
+- 💬 Ask me about **MERN Stack - React JS/TS, ExpressJS, NodeJS, Laravel, NextJS, React Native, Angular TS, Java, Vue, Spring boot**
 
 - 📫 How to reach me **sandalikaariyarathna@gmail.com**
 
