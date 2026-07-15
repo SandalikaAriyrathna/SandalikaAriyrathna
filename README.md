@@ -10,13 +10,13 @@
 
 - 🔭 I’m graduated at **SLIIT | Srilankan Institute Of Information Technology**.
 
-- 👨‍💻 following **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
+- 👨‍💻 followed **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
 
 - 👀 I’m Passionate about Web Application Development
 
-- 🌱 I’m currently studying NextJS.
+- 🌱 I’m currently studying New frameworks and technologies.
 
-- 💬 Ask me about **MERN Stack - React JS/TS, ExpressJS, NodeJS, Laravel, NextJS, React Native, Angular TS, Java, Vue, Spring boot**
+- 💬 Ask me about **MERN Stack - React JS/TS, ExpressJS, NodeJS, Laravel, NextJS, NestJS, React Native, Angular TS, Java, Vue, Spring boot**
 
 - 📫 How to reach me **sandalikaariyarathna@gmail.com**
 
