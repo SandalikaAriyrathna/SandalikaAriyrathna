@@ -25,17 +25,33 @@
 <!--  ![@sandalikaariyrathna's Holopin board](https://holopin.me/sandalikaariyrathna) -->
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
- <h3 align="left">🚀 Languages and Tools:</h3>
- </p>
-<p align="center">
+<h3 align="left">🌐 Connect with Me</h3>
 
- <a href="https://twitter.com/sandalikadilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandalikadilini" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dilini-sandalika96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilinisandalika96" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009407160156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilini sandlika" height="30" width="40" /></a>
-<a href="https://instagram.com/dilini_sandalika?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilini sandlika" height="30" width="40" /></a>
- <a href="https://medium.com/@sandalikaariyarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dilini sandlika" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://twitter.com/sandalikadilini" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dilini-sandalika96/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009407160156" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/dilini_sandalika" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://medium.com/@sandalikaariyarathna" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
+  </a>
+</p>
+
+<br>
+<h3 align="left">🚀 Languages & Tools</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,reactivex,ts,js,nodejs,express,nestjs,spring,laravel,php,django,fastapi,java,html,css,tailwind,bootstrap,angular,vue,mongodb,mysql,firebase,sqlite,docker,git,github,figma,postman,vscode,idea,eclipse,android&perline=10" />
+</p>
+
  
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
