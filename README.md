@@ -58,44 +58,41 @@
 
 <br/>
 <br/>
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" alt="sandalikaariyrathna" /></p>
-
-<br/>
-<br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandalikaariyrathna&theme=github_dark"/>
-</p>
-<br/>
-<br/>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandalikaariyrathna&theme=github_dark&utcOffset=5.5"/>
-</p>
-
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandalikaariyrathna&theme=github_dark"/>
-</p>
-
-<br/>
-<br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandalikaariyrathna&theme=github_dark"/>
-</p>
-
-<br/>
-<br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandalikaariyrathna&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" />
 </p>
 
 <br/>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandalikaariyrathna&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandalikaariyrathna&theme=github_dark"/>
+</p>
 
-<!-- <a href="https://github.com/SandalikaAriyrathna/github-readme-activity-graph"><img alt="sandalikaariyrathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandalikaariyrathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<br/>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandalikaariyrathna&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandalikaariyrathna&theme=github_dark&utcOffset=5.5"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandalikaariyrathna&theme=github_dark"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandalikaariyrathna&theme=dracula"/>
+</p>
+
+<br/>
 
 [![Sandalika_Ariyrathna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandalikaAriyrathna&theme=dracula)](https://github.com/SandalikaAriyrathna/github-readme-activity-graph)
 
