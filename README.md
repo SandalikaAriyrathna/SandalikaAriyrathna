@@ -8,7 +8,7 @@
 
 ### :bulb: About me:
 
-- 🔭 I’m graduated at **SLIIT | Srilankan Institute Of Information Technology**.
+- 🔭 I’m graduated at **SLIIT | Srilanka Institute Of Information Technology**.
 
 - 👨‍💻 followed **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
 
