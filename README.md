@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="./coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandalikaariyrathna&label=Profile%20views&color=0e75b6&style=flat" alt="sandalikaariyrathna" /> </p>
-
+<br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/dilini-sandalika96" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Sandalika Ariyarathna LinkedIn" />
@@ -92,10 +92,10 @@
 <br/>
 
 <h2 align="center">📊 GitHub Statistics</h2>
-
+<br/>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SandalikaAriyrathna&theme=highcontrast&fire=DD2727" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" alt="GitHub Streak" />
   </a>
 </p>
 <br/>
