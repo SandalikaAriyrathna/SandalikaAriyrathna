@@ -49,12 +49,9 @@
 <h3 align="left">🚀 Languages & Tools</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=android,angular,bootstrap,c,cpp,css,django,docker,eclipse,electron,express,fastapi,figma,firebase,git,github,html,idea,java,js,laravel,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,react,redux,spring,sqlite,tailwind,ts,vscode,vue,vite,yarn&perline=10"/>
-</p>
-
-<p align="left">
-
-
+  
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,nodejs,npm,php,postman,react,redux,angular,bootstrap,c,cpp,css,django,docker,spring,sqlite,tailwind,ts,vscode,vue,vite,yarn,android,eclipse,electron,express,fastapi,figma,firebase,git,github,html,idea,java,js,laravel,mongodb,mysql,aws&perline=10"/>
+  
   <!-- React Native -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/>
@@ -84,8 +81,12 @@
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="45" height="45"/>
   </a>
+  
+
 
 </p>
+
+
 
 
 <br/>
