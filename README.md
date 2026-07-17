@@ -94,11 +94,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <br/>
 <p align="center">
-<img
-  src="https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast"
-  width="700"
-  alt="GitHub Streak"
-/>
+![Streak Stats](https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast)
 </p>
 <br/>
 
