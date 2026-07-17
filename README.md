@@ -24,7 +24,6 @@
 
 - 📫 How to reach me **sandalikaariyarathna@gmail.com**
 
-<h3 align="left">Awards:</h3>
 
 <h3 align="left">🌐 Connect with Me</h3>
 
@@ -95,9 +94,10 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SandalikaAriyrathna&theme=highcontrast&fire=DD2727" alt="GitHub Streak" />
+  </a>
 </p>
-
 <br/>
 
 <p align="center">
