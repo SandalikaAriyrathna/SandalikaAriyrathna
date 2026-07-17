@@ -64,8 +64,7 @@
 <br/>
 <br/>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandalikaariyrathna&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandalikaariyrathna&theme=github_dark"/>
 </p>
 <br/>
 <br/>
