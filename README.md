@@ -63,11 +63,9 @@
 
 <br/>
 <br/>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandalikaariyrathna&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sandalikaariyrathna"/>
 </p>
-
 <br/>
 <br/>
 
@@ -76,14 +74,7 @@
 </p>
 
 <br/>
-<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandalikaariyrathna&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
-
-<br/>
-<br/>
 
 <!-- <a href="https://github.com/SandalikaAriyrathna/github-readme-activity-graph"><img alt="sandalikaariyrathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandalikaariyrathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
