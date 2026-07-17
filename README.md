@@ -59,17 +59,28 @@
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" alt="sandalikaariyrathna" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=sandalikaariyrathna&theme=highcontrast&hide_border=true" alt="sandalikaariyrathna" /></p>
 
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalikaariyrathna&show_icons=true&locale=en&layout=compact&theme=react&border=true&bg_color=0D1117" alt="sandalikaariyrathna" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandalikaariyrathna&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
 
 <br/>
 <br/>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&locale=en&theme=react&border=true&bg_color=0D1117" alt="sandalikaariyrathna" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandalikaariyrathna&theme=github_dark"/>
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandalikaariyrathna&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
 
 <br/>
 <br/>
