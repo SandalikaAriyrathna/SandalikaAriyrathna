@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=sandalikaariyrathna&theme=highcontrast&hide_border=true" alt="sandalikaariyrathna" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" alt="sandalikaariyrathna" /></p>
 
 <br/>
 <br/>
