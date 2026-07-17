@@ -94,9 +94,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <br/>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast&fire=DD2727" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 <br/>
 
