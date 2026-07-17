@@ -98,12 +98,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
 </p>
 <br/>
-<br/>
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
-</p>
-<br/>
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandalikaariyrathna&theme=github_dark"/>
