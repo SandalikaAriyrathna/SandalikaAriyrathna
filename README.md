@@ -95,8 +95,7 @@
 <br/>
 <p align="center">
 
-![Streak Stats](https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast)
-
+<img src="https://github-readme-streak-stats-yourname.vercel.app/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
 </p>
 <br/>
 
