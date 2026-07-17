@@ -70,6 +70,13 @@
 <br/>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandalikaariyrathna&theme=github_dark&utcOffset=5.5"/>
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandalikaariyrathna&theme=github_dark"/>
 </p>
 
