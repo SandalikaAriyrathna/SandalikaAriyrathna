@@ -64,7 +64,8 @@
 <br/>
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandalikaariyrathna"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandalikaariyrathna&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <br/>
 <br/>
