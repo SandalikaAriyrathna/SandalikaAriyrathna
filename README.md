@@ -93,9 +93,7 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <br/>
-<p align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sandalikaariyrathna&theme=highcontrast&type=png)
 <br/>
 
 <p align="center">
