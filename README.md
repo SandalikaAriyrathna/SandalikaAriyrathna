@@ -95,7 +95,13 @@
 <br/>
 <p align="center">
 
-<img src="https://github-readme-streak-stats-yourname.vercel.app/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
+</p>
+<br/>
+<br/>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
 </p>
 <br/>
 
