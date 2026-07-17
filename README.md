@@ -4,7 +4,11 @@
 <img align="right" alt="Coding" width="400" src="./coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandalikaariyrathna&label=Profile%20views&color=0e75b6&style=flat" alt="sandalikaariyrathna" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sandalikadilini" target="blank"><img src="https://img.shields.io/twitter/follow/sandalikadilini?logo=twitter&style=for-the-badge" alt="sandalikadilini" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dilini-sandalika96" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Sandalika Ariyarathna LinkedIn" />
+  </a>
+</p>
 
 ### :bulb: About me:
 
@@ -21,9 +25,6 @@
 - 📫 How to reach me **sandalikaariyarathna@gmail.com**
 
 <h3 align="left">Awards:</h3>
-
-<!--  ![@sandalikaariyrathna's Holopin board](https://holopin.me/sandalikaariyrathna) -->
-
 
 <h3 align="left">🌐 Connect with Me</h3>
 
