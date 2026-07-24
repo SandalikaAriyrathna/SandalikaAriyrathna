@@ -108,8 +108,7 @@
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandalikaariyrathna&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandalikaariyrathna&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandalikaariyrathna&theme=github_dark"/>
 </p>
 
 <br/>
