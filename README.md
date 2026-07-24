@@ -107,16 +107,9 @@
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandalikaariyrathna&theme=github_dark"/>
-</p>
-
-<br/>
-
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandalikaariyrathna&theme=github_dark"/>
 </div>
-
 <br/>
 
 <p align="center">
