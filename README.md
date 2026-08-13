@@ -94,9 +94,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <br/>
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandalikaariyrathna&theme=highcontrast" alt="Streak Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=sandalikaariyrathna&theme=highcontrast"
+    alt="GitHub contribution streak"
+  />
 </p>
+
 <br/>
 
 
