@@ -118,9 +118,11 @@
 <br/>
 
 <p align="center">
-
-![Sandalika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandalikaAriyrathna)
-
+  <img
+    src="https://raw.githubusercontent.com/sandalikaariyrathna/sandalikaariyrathna/main/sandalika-activity-graph.png"
+    width="100%"
+    alt="Sandalika's GitHub Activity Graph"
+  />
 </p>
 
 <br/>
