@@ -118,7 +118,9 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandalikaariyrathna&theme=dracula"/>
+
+![Sandalika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandalikaAriyrathna)
+
 </p>
 
 <br/>
