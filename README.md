@@ -117,13 +117,27 @@
 </div>
 <br/>
 
+
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sandalikaariyrathna/sandalikaariyrathna/main/sandalika-activity-graph.png"
+    src="https://raw.githubusercontent.com/SandalikaAriyrathna/SandalikaAriyrathna/activity-graph-output/activity-graph.svg"
     width="100%"
-    alt="Sandalika's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
+
+<h2 align="center">👾 GitHub Arcade</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SandalikaAriyrathna/SandalikaAriyrathna/pacman-output/galaga-contribution-graph.svg"
+    width="100%"
+    alt="GitHub Arcade Animation"
+  />
+</p>
+
 
 <br/>
 
